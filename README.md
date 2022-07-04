@@ -1,4 +1,4 @@
 # mi-primer-repo
 Repositorio para Codehouse
 ## Mi primer commit remoto
-esto es un commirt remoto
+esto es un commit remoto
